@@ -1,6 +1,6 @@
-# 📱 Free React Native Course: Build a Link Management App with Expo
+# 📱Build a Link Management App with Expo
 
-Welcome to this **free React Native course**, where you'll learn how to create native apps for **Android** and **iOS** using **Expo** and **Expo Router**. Through a hands-on approach, you'll explore key tools and features of modern mobile development while building a complete and useful application.
+Welcome to this **fLink Management App with Expo**, where you'll learn how to create native apps for **Android** and **iOS** using **Expo** and **Expo Router**. Through a hands-on approach, you'll explore key tools and features of modern mobile development while building a complete and useful application.
 
 ---
 
@@ -107,5 +107,4 @@ This course is perfect for:
 - Students and hobbyists who want to build real apps
 - Anyone curious about React Native and Expo
 
----
-```
+
