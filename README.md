@@ -1,6 +1,6 @@
 # 📱Build a Link Management App with Expo
 
-Welcome to this **fLink Management App with Expo**, where you'll learn how to create native apps for **Android** and **iOS** using **Expo** and **Expo Router**. Through a hands-on approach, you'll explore key tools and features of modern mobile development while building a complete and useful application.
+Welcome to this **Link Management App with Expo**, where you'll learn how to create native apps for **Android** and **iOS** using **Expo** and **Expo Router**. Through a hands-on approach, you'll explore key tools and features of modern mobile development while building a complete and useful application.
 
 ---
 
